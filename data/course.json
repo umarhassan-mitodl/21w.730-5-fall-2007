@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "82858090-3c60-ea87-8113-276ac924d1d1",
+  "instructors": {
+    "content": [
+      "4b54d67b-20ef-ea52-7cfe-4bd13c416999"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6fdae0b7-b435-af21-f60f-2f0d455158c3",
+    "website": "21w-730-5-writing-on-contemporary-issues-imagining-the-future-fall-2007"
+  },
+  "course_title": "Writing on Contemporary Issues: Imagining the Future",
+  "hide_download": true,
+  "course_description": "Turn-of-the-century eras have historically been times when people are more than usually inclined to scrutinize the present and speculate about the future. Now, the turn not just of a century but of a millennium having recently passed, such scrutiny and speculations inevitably intensify. What will the future that awaits us in this twenty-first century and beyond be like? And how do visions of that future reflect and respond to the world we live in now? In this course we will read and write about how some writers and filmmakers have responded to the present as a way of imagining\u2014and warning about\u2014possible worlds to come. Guided by our reading and discussion, we will scrutinize our own present and construct our own visions of the future through close readings of the texts as well as of some aspects of contemporary culture\u2014urban and environmental crises, economic imperialism, sexual and reproductive politics, the ethics of biotechnologies, issues of race and gender, the romance of technology, robotics and cyborg cultures, media saturation, language and representation\u2014and the persistent questions they pose about what it means to be human at this start of a new millennium.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.730-5",
+  "course_image_thumbnail": {
+    "content": "92e8869b-05c9-9bd5-90d7-e7e637e8febf",
+    "website": "21w-730-5-writing-on-contemporary-issues-imagining-the-future-fall-2007"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "8e9fe205-b933-4257-802a-6408781995ac",
+  "site_short_id": "21w.730-5-fall-2007",
+  "site_url_path": "courses/21w-730-5-writing-on-contemporary-issues-imagining-the-future-fall-2007",
+  "title": "Course Metadata"
+}
