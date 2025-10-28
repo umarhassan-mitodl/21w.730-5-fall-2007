@@ -4,8 +4,6 @@ description: 'Example of student work: "A Nightmare Realized" by Tabitha Bonilla
 file: /courses/21w-730-5-writing-on-contemporary-issues-imagining-the-future-fall-2007/6ca0af35526120b6a63207b437f83463_assign4_nightmr.pdf
 file_size: 94798
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

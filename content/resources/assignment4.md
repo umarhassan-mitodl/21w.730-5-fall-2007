@@ -4,8 +4,6 @@ description: Guidelines and instructions for Assignment IV.
 file: /courses/21w-730-5-writing-on-contemporary-issues-imagining-the-future-fall-2007/d50f70ddd92d735d22747e12525f489d_assignment4.pdf
 file_size: 84595
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

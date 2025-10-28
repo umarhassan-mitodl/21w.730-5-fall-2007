@@ -5,8 +5,6 @@ description: Assignment to write a profile or portrait of oneself as a reader an
 file: /courses/21w-730-5-writing-on-contemporary-issues-imagining-the-future-fall-2007/80773e228bb4068febb2800de8c91c07_profile.pdf
 file_size: 50987
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

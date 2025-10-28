@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Syllabus
@@ -64,7 +62,7 @@ Plagiarism
 
 Using someone else's language and/or ideas without proper attribution is academically dishonest. As members of this class and the larger scholarly community you are expected to abide by the norms of academic honesty. While a good deal of collaboration is encouraged in and out of class, failing to acknowledge sources or willfully misrepresenting the work of others as your own will not be tolerated. Everything you submit must be your own work written specifically for this class.
 
-The booklet [_Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students_](http://web.mit.edu/academicintegrity/) explains these issues in detail, and you are responsible for understanding its contents. We will work on citing sources in class and discuss ways to acknowledge them properly. When in doubt, consult with me.
+The booklet {{% resource_link "c3c59134-ebf5-4126-a395-c1f8522c5866" "_Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students_" %}} explains these issues in detail, and you are responsible for understanding its contents. We will work on citing sources in class and discuss ways to acknowledge them properly. When in doubt, consult with me.
 
 Plagiarism can result in withdrawal from the course with a grade of F or suspension or expulsion from the Institute.
 

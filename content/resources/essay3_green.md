@@ -5,8 +5,6 @@ description: 'Example of student work: "Building Green; Bridging the Gap Between
 file: /courses/21w-730-5-writing-on-contemporary-issues-imagining-the-future-fall-2007/38eca9de4369810740f8df66b4fcb465_essay3_green.pdf
 file_size: 128107
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

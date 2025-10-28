@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Related Resources
@@ -16,26 +14,26 @@ Lunsford, Andrea A. _EasyWriter_. Bedford / St. Martin's, 2013. ISBN: 9781457640
 Citing Sources
 --------------
 
-[MLA Documentation](http://www.wisc.edu/writing/Handbook/DocMLA.html) from The Writing Center at the University of Wisconsin
+{{% resource_link "83b5d6fd-8db8-4d45-b5d0-315a869b290e" "MLA Documentation" %}} from The Writing Center at the University of Wisconsin
 
-[MLA Formatting and Style Guide](https://writing.wisc.edu/handbook/documentation/docmla/) from The Purdue University Online Writing Lab (OWL)
+{{% resource_link "6e519d6b-d1b9-46a6-acbc-81296ad2d0b1" "MLA Formatting and Style Guide" %}} from The Purdue University Online Writing Lab (OWL)
 
 Authors
 -------
 
-[George Saunders](http://www.georgesaundersland.com/index.html)
+{{% resource_link "01726713-ae42-412f-b648-b5ba6c3f9e23" "George Saunders" %}}
 
-[Ursula Le Guin](https://www.ursulakleguin.com/)
+{{% resource_link "1b2f8be6-a228-4400-bd9a-097dd777e50a" "Ursula Le Guin" %}}
 
-[Albert Goldbarth](http://www.poets.org/poet.php/prmPID/1295)
+{{% resource_link "9068f89a-1b2a-4433-a405-1513961ea7d5" "Albert Goldbarth" %}}
 
-[Ray Bradbury](http://www.raybradbury.com/)
+{{% resource_link "9080e758-6017-42ce-bd9c-5c0d7162d2ee" "Ray Bradbury" %}}
 
-[Margaret Atwood](http://www.randomhouse.com/features/atwood/index.html)
+{{% resource_link "7e937f24-106f-4d28-9d12-1e396a0d7309" "Margaret Atwood" %}}
 
 Films
 -----
 
-[_Blade Runner_](http://www.imdb.com/title/tt0083658/) (See also: [official Warner Bros. site](http://bladerunnerthemovie.warnerbros.com/))
+{{% resource_link "3a6b32a7-413b-4412-823a-f4cbb3667a2c" "_Blade Runner_" %}} (See also: {{% resource_link "d623f4b9-dc47-4df6-ae30-273fdecef9df" "official Warner Bros. site" %}})
 
-[_The Matrix_](http://www.imdb.com/title/tt0133093/) (See also: [official Warner Bros. site](http://whatisthematrix.warnerbros.com/))
+{{% resource_link "1919fcd0-d341-4ca6-9624-151228101893" "_The Matrix_" %}} (See also: {{% resource_link "9beca5c6-a40d-4d26-a29e-b0dc76d328df" "official Warner Bros. site" %}})

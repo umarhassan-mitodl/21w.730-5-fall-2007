@@ -5,8 +5,6 @@ description: Guidelines and instructions for a reading session to provide feedba
 file: /courses/21w-730-5-writing-on-contemporary-issues-imagining-the-future-fall-2007/ef690d79b484099e232864144c0e7c06_silent_reading.pdf
 file_size: 69559
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -19,7 +19,7 @@ Bradbury, Ray. _Fahrenheit 451_. \[First edition published in 1953.\] New York, 
 
 Goldbarth, Albert. "The Future." In _Great Topics of the World: Essays_. New York, NY: Picador, 1995. ISBN: 9780312140878.
 
-Haraway, Donna. "[A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century](http://readingrhetoric.wordpress.com/2012/02/18/a-cyborg-manifesto-science-technology-and-socialist-feminism-in-the-late-twentieth-century/)." In _Simians, Cyborgs and Women: The Reinvention of Nature_. New York, NY: Routledge, 1991, pp. 149-181. ISBN: 9780415903875.
+Haraway, Donna. "{{% resource_link "d63b10ea-5148-43c5-afed-01c5b2eb5610" "A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century" %}}." In _Simians, Cyborgs and Women: The Reinvention of Nature_. New York, NY: Routledge, 1991, pp. 149-181. ISBN: 9780415903875.
 
 LeGuin, Ursula. "Science Fiction and the Future." In _Dancing at the Edge of the World: Thoughts on Words, Women, Places_. New York, NY: Grove Press, 1997, pp. 142-143. ISBN: 9780802135292.
 
